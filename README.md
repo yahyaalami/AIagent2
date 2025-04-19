@@ -16,8 +16,6 @@ Un agent intelligent capable de répondre à des questions à partir d’avis ut
 
 ## 📁 Structure du projet
 
-## 📁 Structure du projet
-
 AI-agent/
 │
 ├── main.py                       # Code principal de l’agent conversationnel
