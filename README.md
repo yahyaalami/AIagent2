@@ -17,12 +17,16 @@ Un agent intelligent capable de répondre à des questions à partir d’avis ut
 ## 📁 Structure du projet
 
 AI-agent/
-│
 ├── main.py                       # Code principal de l’agent conversationnel
+
 ├── vector.py                     # Script pour créer et alimenter la base vectorielle Chroma
+
 ├── realistic_restaurant_reviews.csv  # Données d’entrée (avis de restaurants)
+
 ├── README.md                     # Fichier de documentation
+
 ├── requirements.txt              # Dépendances du projet
+
 └── chrome_langchain_db/          # Base vectorielle persistée localement
 
 ---
